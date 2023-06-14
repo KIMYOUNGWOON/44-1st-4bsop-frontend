@@ -8,7 +8,7 @@
 저희는 git branch에서 의미를 가져와 네명이 함께하여 **4branch** 입니다.
 
 - 2023.04.03 ~ 2023.04.14 (2주)
-- 김영운(FE), 박지연(FE), 장다희(BE, Project Manager), 왕광현(BE, Product Manager)
+- 김영운(FE), 박지연(FE), 장다희(BE), 왕광현(BE)
 
 ## Skills
 SPA(Single Page Application)기술을 사용하여 프로젝트를 작업했습니다.
